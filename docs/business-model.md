@@ -16,6 +16,6 @@ Any actual portal registration or filing submission requires
 Market-Entry Compliance Governor clearance and always escalates to
 human sign-off. A false or fabricated regulatory-requirement claim is a
 HARD hold. Every fact this actor states about Mali's market-entry
-requirements traces to `src/marketentry/facts.cljc`'s catalog, which is
+requirements traces to `src/marketentry/facts.cljk`'s catalog, which is
 grounded only in the ARMDS / DGMP-DSP / RCCM-OHADA / DGI sources above —
 never invented.

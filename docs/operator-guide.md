@@ -2,8 +2,8 @@
 
 Human-gated filing only. `filing/draft` and `filing/submit` always
 escalate for human market-entry-operator approval, at every rollout
-phase — see `src/marketentry/phase.cljc` and the governor's
-confidence/actuation gate in `src/marketentry/governor.cljc`.
+phase — see `src/marketentry/phase.cljk` and the governor's
+confidence/actuation gate in `src/marketentry/governor.cljk`.
 
 Required evidence before a filing may be drafted or submitted (per
 `marketentry.facts` for "MLI"):
