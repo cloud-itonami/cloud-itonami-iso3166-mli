@@ -13,7 +13,7 @@
   (`clean-intake-auto-commits`) and a hold path
   (`fabricated-jurisdiction-is-held` / the RCCM-entity/fee/NIF hold
   tests below), not just the individual node functions."
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [langgraph.graph :as g]
             [marketentry.store :as store]
             [marketentry.operation :as op]))
